@@ -7,6 +7,6 @@ class Dog
   end
 end
 
-def bark(dog_name)
+def bark(@this_dog_is_named)
   puts "woof!"
 end
