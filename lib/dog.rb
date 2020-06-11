@@ -7,6 +7,6 @@ class Dog
   end
 end
 
-def bark(this_dog_is_named)
+def bark(name)
   puts "woof!"
 end
